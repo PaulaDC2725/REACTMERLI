@@ -35,7 +35,7 @@ const personajes = [
         "nombre": "Oscar Rubio",
         "edad" : 30,
         "genero": "M",
-        "imagen": "https://static.wikia.nocookie.net/merli/images/0/03/309_%C3%93scar.png/revision/latest/scale-to-width-down/1151?cb=20210317191120&path-prefix=ca"
+        "imagen": ""
     }
 ]
 
